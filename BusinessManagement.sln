@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessManagement", "BusinessManagement\BusinessManagement.csproj", "{68D2A47F-8FBB-4C83-A6F8-D04B4FD315B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{8A69F7ED-8222-4BEC-ACE5-FB46DAC06A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D2A47F-8FBB-4C83-A6F8-D04B4FD315B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D2A47F-8FBB-4C83-A6F8-D04B4FD315B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D2A47F-8FBB-4C83-A6F8-D04B4FD315B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D2A47F-8FBB-4C83-A6F8-D04B4FD315B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A69F7ED-8222-4BEC-ACE5-FB46DAC06A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A69F7ED-8222-4BEC-ACE5-FB46DAC06A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A69F7ED-8222-4BEC-ACE5-FB46DAC06A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A69F7ED-8222-4BEC-ACE5-FB46DAC06A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A34768-DB63-443A-9D90-21B9F18E5397}
+	EndGlobalSection
+EndGlobal
